@@ -70,8 +70,10 @@ A real-time license plate detection and recognition system built with Python, YO
 
 | Live Feed                                   | Detection Logs                                |
 | ------------------------------------------- | --------------------------------------------- |
-| ![Live Feed Screenshot](<img width="1916" height="936" alt="image" src="https://github.com/user-attachments/assets/7ce122d2-3af0-49b1-9491-b565dde7feb6" />
-) | ![Logs Screenshot](<img width="1907" height="931" alt="image" src="https://github.com/user-attachments/assets/8c431859-6882-42fd-a211-9d8d392bb830" />
+| ![Live Feed Screenshot]
+(<img width="1916" height="936" alt="image" src="https://github.com/user-attachments/assets/7ce122d2-3af0-49b1-9491-b565dde7feb6" />
+) | ![Logs Screenshot]
+(<img width="1907" height="931" alt="image" src="https://github.com/user-attachments/assets/8c431859-6882-42fd-a211-9d8d392bb830" />
 ) |
 ---
 
